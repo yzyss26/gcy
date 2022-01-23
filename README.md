@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="https://xingye.me/game/eatkano"><img src="C:\Users\黄勇杰\Desktop\新建文件夹 (9)\gcy.jpg" width="100" height="100" alt="EatKano"></a>
+  <a href="https://xingye.me/game/eatkano"><img src="" width="100" height="100" alt="EatKano"></a>
 </p>
 <div align="center">
 
